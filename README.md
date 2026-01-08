@@ -2,7 +2,7 @@
 
 EFI customizada para Hackintosh rodando macOS Tahoe 16.2 com sucesso.
 
-![Screenshot do sistema](https://github.com/DevRBezerra/x99-efi/blob/main/Screenshot%202025-06-18%20at%2017.44.45.png)
+![Screenshot do sistema]([https://github.com/DevRBezerra/x99-efi/blob/main/Screenshot%202025-06-18%20at%2017.44.45.png](https://raw.githubusercontent.com/DevRBezerra/X99-EFI-TAHOE-26.2/refs/heads/main/Captura%20de%20Tela%202026-01-07%20a%CC%80s%2023.15.40.png))
 
 ## Configuração do Sistema
 
